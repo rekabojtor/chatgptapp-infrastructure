@@ -1,0 +1,210 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="IDDz9AHcgyXsdDZxRbLr">
+    <mxGraphModel dx="2187" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="315" width="870" x="-760" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-43" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="540" x="-760" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-10" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="j9-jzFqgsqujDvDIlhX6-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-12" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;&amp;nbsp;Step 2&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.125" y="3" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-21" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9-jzFqgsqujDvDIlhX6-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="210" />
+              <mxPoint x="-140" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-22" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;&amp;nbsp;Step 4&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.15" y="-1" as="geometry">
+            <mxPoint x="-26" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="DNS Root Server" vertex="1">
+          <mxGeometry height="80" width="80" x="10" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-11" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="j9-jzFqgsqujDvDIlhX6-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-15" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;&lt;b&gt;Step 3: &lt;/b&gt;TLD.com&amp;nbsp;IP address&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.2222" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-23" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="240" />
+            </Array>
+            <mxPoint x="-240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-24" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;&amp;nbsp;&lt;b&gt;Step 5: &lt;/b&gt;nameservers&lt;br&gt;for&amp;nbsp;rekabojtor.com&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.0698" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="TLD.com" vertex="1">
+          <mxGeometry height="80" width="80" x="10" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-29" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" target="j9-jzFqgsqujDvDIlhX6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-30" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FF6666;" value="buy rekabojtor.com domain" vertex="1">
+          <mxGeometry relative="1" x="-0.0125" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-25" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#FF6666;" value="Reka" vertex="1">
+          <mxGeometry height="60" width="30" x="285" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-46" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="j9-jzFqgsqujDvDIlhX6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-47" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;register rekabojtor.com" vertex="1">
+          <mxGeometry relative="1" x="0.1412" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-27" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF6666;" value="Namecheap" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-5" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9-jzFqgsqujDvDIlhX6-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-520" y="210" />
+              <mxPoint x="-520" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-6" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;&lt;b&gt;Step 1:&lt;/b&gt; app.rekabojtor.com&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="-1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Reka App (DNS client)" vertex="1">
+          <mxGeometry height="80" width="80" x="-700" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-7" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="j9-jzFqgsqujDvDIlhX6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="240" />
+              <mxPoint x="-400" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-42" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;&lt;b&gt;Step 10:&lt;/b&gt;&amp;nbsp;app.rekabojtor.com = IP address xyz" vertex="1">
+          <mxGeometry relative="1" x="0.0778" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Local DNS Resolver" vertex="1">
+          <mxGeometry height="70" width="120" x="-360" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ChatGPT&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-760" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-51" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-330" y="630" />
+              <mxPoint x="-330" y="260" />
+            </Array>
+            <mxPoint x="-330" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-52" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;&lt;b&gt;Step 9: &lt;/b&gt;IP addrress of app.rekabojtor.com&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.3876" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-74" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-75" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Manually add provisioned AWS nameserver" vertex="1">
+          <mxGeometry relative="1" x="0.3384" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-48" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Route53 rekabojtor" vertex="1">
+          <mxGeometry height="80" width="80" x="10" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-49" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="j9-jzFqgsqujDvDIlhX6-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="600" />
+            </Array>
+            <mxPoint x="10" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-50" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;&amp;nbsp;Step 8:&amp;nbsp;&lt;/b&gt;What is app.rekabojtor.com?&lt;b&gt;&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2488" y="-4" as="geometry">
+            <mxPoint x="86" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Application Load Balancer" vertex="1">
+          <mxGeometry height="90" width="120" x="-720" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Certificate Manager" vertex="1">
+          <mxGeometry height="60" width="120" x="-600" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-58" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-55" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-710" y="310" as="sourcePoint" />
+            <mxPoint x="-660" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-59" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTPS" vertex="1">
+          <mxGeometry relative="1" x="-0.0878" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="120" x="-720" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EC2" vertex="1">
+          <mxGeometry height="30" width="60" x="-720" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCP" vertex="1">
+          <mxGeometry height="40" width="100" x="-710" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-63" edge="1" parent="1" source="j9-jzFqgsqujDvDIlhX6-62" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j9-jzFqgsqujDvDIlhX6-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-230" y="550" as="sourcePoint" />
+            <mxPoint x="-180" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-64" connectable="0" parent="j9-jzFqgsqujDvDIlhX6-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTP" vertex="1">
+          <mxGeometry relative="1" x="0.2156" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9-jzFqgsqujDvDIlhX6-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;AWS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-760" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
